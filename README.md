@@ -73,3 +73,9 @@ I’m always open to sharing experiences, learning from others, and collaboratin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/melina-lopez-643387259/)  
 - 📧 melina.lopez@ingenieria.uner.edu.ar
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meliilopez&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meliilopez&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=meliilopez&theme=tokyonight)
