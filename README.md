@@ -17,7 +17,7 @@ Disfruto transformar datos en información útil y me motiva aprender y mejorar 
 
 💼 **Experiencia profesional**
 
-Durante mis Prácticas Profesionalizantes participé en el diseño e implementación de bases de datos desde cero, optimizando el almacenamiento y facilitando el acceso a la información para la toma de decisiones. Además, propuse y colaboré en la digitalización de planillas, mejorando la eficiencia operativa y reduciendo errores manuales en los procesos.
+Durante mis Prácticas Profesionalizantes participé en el diseño e implementación de bases de datos desde cero, optimizando la estructura de almacenamiento y facilitando el acceso a la información para una mejor toma de decisiones. Asimismo, propuse e implementé la digitalización de planillas y el uso de cuestionarios digitales, lo que permitió mejorar la eficiencia operativa y reducir significativamente los errores manuales en los procesos.
 
 ---
 
