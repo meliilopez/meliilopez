@@ -55,8 +55,7 @@ I enjoy transforming raw data into meaningful insights and I’m constantly moti
 
 💼 **Professional Experience**
 
-During my Professional Internships, I participated in the design and implementation of databases from scratch, optimizing data storage and improving access to information for decision-making.
-I also contributed to the digitalization of manual processes, helping to reduce operational errors and increase efficiency.
+During my professional internship, I participated in the design and implementation of databases from scratch, optimizing data storage structures and facilitating access to information to support data-driven decision-making. Additionally, I proposed and implemented the digitalization of spreadsheets and the use of digital questionnaires, improving operational efficiency and significantly reducing manual errors in processes.
 
 ---
 
