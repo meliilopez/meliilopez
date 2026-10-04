@@ -7,11 +7,24 @@ Disfruto transformar datos en información útil y me motiva aprender y mejorar 
 
 🛠️ **Habilidades técnicas**  
 
-- 💻 **Lenguajes de programación:** Python, R, PowerShell  
-- 🗄️ **Bases de datos:** SQL (PostgreSQL), NoSQL (Cassandra, ClickHouse, MongoDB)  
-- 📊 **Herramientas de análisis / ETL / visualización:** Power BI, Apache Hop, RStudio, Jupyter Notebook  
-- 🖥️ **Sistemas operativos / Servidores:** Linux, Windows  
-- ⚙️ **Control de versiones / DevOps / Contenedores:** Git, Docker  
+- 💻 Lenguajes de programación: Python, R, SQL, HTML, PowerShell.
+
+- 🗄️ Bases de datos: PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
+
+- 📊 Business Intelligence & Visualización: Power BI, Tableau, Metabase, Excel, Data Storytelling.
+
+- 🔄 Ingeniería & Procesamiento de Datos: Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, integración y transformación de datos.
+
+- 🤖 Machine Learning & Minería de Datos: Aprendizaje supervisado y no supervisado, regresión lineal y logística, árboles de decisión, Random Forest, SVM, KNN, Naive Bayes, redes neuronales (Perceptrón Simple y Multicapa), clustering (K-Means y jerárquico), LDA, reglas de asociación (Apriori), detección de anomalías y outliers.
+
+- 📈 Estadística & Ciencia de Datos: Análisis exploratorio y limpieza de datos, estadística descriptiva e inferencial, análisis bivariado y multivariado, comparación de medias, pruebas de hipótesis, ANOVA, PCA, modelos probabilísticos y análisis de Big Data.
+
+- 🛠️ Herramientas & Entornos: Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
+
+- ⚙️ Control de versiones & Contenedores: Git, GitHub, Docker.
+
+- 🖥️ Sistemas Operativos: Linux, Windows.
+
 
 ---
 
@@ -23,7 +36,7 @@ Durante mis Prácticas Profesionalizantes participé en el diseño e implementac
 
 🎓 **Antecedentes educativos**  
 
-Soy Técnica Universitaria en Procesamiento y Explotación de Datos por la Facultad de Ingeniería (UNER). Mi formación académica se complementa con el desarrollo de proyectos personales relacionados con datos, que realizo en mi tiempo libre con el objetivo de seguir aprendiendo y perfeccionando mis habilidades.
+Soy Técnica Universitaria en Procesamiento y Explotación de Datos por la Facultad de Ingeniería (UNER) y actualmente continúo mis estudios en la Licenciatura en Ciencia de Datos - CCC en la Universidad del Gran Rosario (UGR). Mi formación académica se complementa con el desarrollo de proyectos personales relacionados con datos, que realizo en mi tiempo libre con el objetivo de seguir aprendiendo y perfeccionando mis habilidades.
 
 ---
 
@@ -44,12 +57,23 @@ I enjoy transforming raw data into meaningful insights and I’m constantly moti
 ---
 
 🛠️ **Technical Skills**
+- 💻 Programming Languages: Python, R, SQL, HTML, PowerShell.
 
-- 💻 **Programming Languages:** Python, R, PowerShell  
-- 🗄️ **Databases:** SQL (PostgreSQL), NoSQL (Cassandra, ClickHouse, MongoDB)  
-- 📊 **Data Analysis / ETL / Visualization Tools:** Power BI, Apache Hop, RStudio, Jupyter Notebook  
-- 🖥️ **Operating Systems:** Linux, Windows  
-- ⚙️ **Version Control / DevOps / Containers:** Git, Docker  
+- 🗄️ Databases: PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
+
+- 📊 Business Intelligence & Data Visualization: Power BI, Tableau, Metabase, Excel, Data Storytelling.
+
+- 🔄 Data Engineering & Processing: Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, Data Integration and Transformation.
+
+- 🤖 Machine Learning & Data Mining: Supervised and Unsupervised Learning, Linear and Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, Neural Networks (Single-Layer Perceptron and Multilayer Perceptron), Clustering (K-Means and Hierarchical Clustering), LDA, Association Rules (Apriori), Anomaly Detection and Outlier Detection.
+
+- 📈 Statistics & Data Science: Exploratory Data Analysis (EDA) and Data Cleaning, Descriptive and Inferential Statistics, Bivariate and Multivariate Analysis, Mean Comparison, Hypothesis Testing, ANOVA, PCA (Principal Component Analysis), Probabilistic Models, and Big Data Analytics.
+
+- 🛠️ Tools & Development Environments: Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
+
+- ⚙️ Version Control & Containerization: Git, GitHub, Docker.
+
+- 🖥️ Operating Systems: Linux, Windows.
 
 ---
 
@@ -61,8 +85,7 @@ During my professional internship, I participated in the design and implementati
 
 🎓 **Education**
 
-I hold a Technical Degree in Data Processing and Exploitation from the Faculty of Engineering (UNER).
-My academic background is complemented by personal projects related to data analysis and engineering, which I develop in my free time to continuously strengthen my skills.
+I hold a Technical Degree in Data Processing and Exploitation from the Faculty of Engineering (UNER) and am currently pursuing a Bachelor's Degree in Data Science (CCC) at Universidad del Gran Rosario (UGR). My academic background is complemented by personal projects related to data analysis and engineering, which I develop in my free time to continuously strengthen my skills.
 
 ---
 
