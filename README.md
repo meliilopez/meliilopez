@@ -7,23 +7,23 @@ Disfruto transformar datos en información útil y me motiva aprender y mejorar 
 
 🛠️ **Habilidades técnicas**  
 
-- 💻 Lenguajes de programación: Python, R, SQL, HTML, PowerShell.
+- 💻 **Lenguajes de programación:** Python, R, SQL, HTML, PowerShell.
 
-- 🗄️ Bases de datos: PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
+- 🗄️ **Bases de datos:** PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
 
-- 📊 Business Intelligence & Visualización: Power BI, Tableau, Metabase, Excel, Data Storytelling.
+- 📊 **Business Intelligence & Visualización:** Power BI, Tableau, Metabase, Excel, Data Storytelling.
 
-- 🔄 Ingeniería & Procesamiento de Datos: Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, integración y transformación de datos.
+- 🔄 **Ingeniería & Procesamiento de Datos:** Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, integración y transformación de datos.
 
-- 🤖 Machine Learning & Minería de Datos: Aprendizaje supervisado y no supervisado, regresión lineal y logística, árboles de decisión, Random Forest, SVM, KNN, Naive Bayes, redes neuronales (Perceptrón Simple y Multicapa), clustering (K-Means y jerárquico), LDA, reglas de asociación (Apriori), detección de anomalías y outliers.
+- 🤖 **Machine Learning & Minería de Datos:** Aprendizaje supervisado y no supervisado, regresión lineal y logística, árboles de decisión, Random Forest, SVM, KNN, Naive Bayes, redes neuronales (Perceptrón Simple y Multicapa), clustering (K-Means y jerárquico), LDA, reglas de asociación (Apriori), detección de anomalías y outliers.
 
-- 📈 Estadística & Ciencia de Datos: Análisis exploratorio y limpieza de datos, estadística descriptiva e inferencial, análisis bivariado y multivariado, comparación de medias, pruebas de hipótesis, ANOVA, PCA, modelos probabilísticos y análisis de Big Data.
+- 📈 **Estadística & Ciencia de Datos:** Análisis exploratorio y limpieza de datos, estadística descriptiva e inferencial, análisis bivariado y multivariado, comparación de medias, pruebas de hipótesis, ANOVA, PCA, modelos probabilísticos y análisis de Big Data.
 
-- 🛠️ Herramientas & Entornos: Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
+- 🛠️ **Herramientas & Entornos:** Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
 
-- ⚙️ Control de versiones & Contenedores: Git, GitHub, Docker.
+- ⚙️ **Control de versiones & Contenedores:** Git, GitHub, Docker.
 
-- 🖥️ Sistemas Operativos: Linux, Windows.
+- 🖥️ **Sistemas Operativos:** Linux, Windows.
 
 
 ---
@@ -57,23 +57,24 @@ I enjoy transforming raw data into meaningful insights and I’m constantly moti
 ---
 
 🛠️ **Technical Skills**
-- 💻 Programming Languages: Python, R, SQL, HTML, PowerShell.
 
-- 🗄️ Databases: PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
+- 💻 **Programming Languages:** Python, R, SQL, HTML, PowerShell.
 
-- 📊 Business Intelligence & Data Visualization: Power BI, Tableau, Metabase, Excel, Data Storytelling.
+- 🗄️ **Databases:** PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, HBase.
 
-- 🔄 Data Engineering & Processing: Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, Data Integration and Transformation.
+- 📊 **Business Intelligence & Data Visualization:** Power BI, Tableau, Metabase, Excel, Data Storytelling.
 
-- 🤖 Machine Learning & Data Mining: Supervised and Unsupervised Learning, Linear and Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, Neural Networks (Single-Layer Perceptron and Multilayer Perceptron), Clustering (K-Means and Hierarchical Clustering), LDA, Association Rules (Apriori), Anomaly Detection and Outlier Detection.
+- 🔄 **Data Engineering & Processing:** Apache Hop, ETL, Data Warehousing, Web Scraping, Web Crawling, Data Integration and Transformation.
 
-- 📈 Statistics & Data Science: Exploratory Data Analysis (EDA) and Data Cleaning, Descriptive and Inferential Statistics, Bivariate and Multivariate Analysis, Mean Comparison, Hypothesis Testing, ANOVA, PCA (Principal Component Analysis), Probabilistic Models, and Big Data Analytics.
+- 🤖 **Machine Learning & Data Mining:** Supervised and Unsupervised Learning, Linear and Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, Neural Networks (Single-Layer Perceptron and Multilayer Perceptron), Clustering (K-Means and Hierarchical Clustering), LDA, Association Rules (Apriori), Anomaly Detection and Outlier Detection.
 
-- 🛠️ Tools & Development Environments: Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
+- 📈 **Statistics & Data Science:** Exploratory Data Analysis (EDA) and Data Cleaning, Descriptive and Inferential Statistics, Bivariate and Multivariate Analysis, Mean Comparison, Hypothesis Testing, ANOVA, PCA (Principal Component Analysis), Probabilistic Models, and Big Data Analytics.
 
-- ⚙️ Version Control & Containerization: Git, GitHub, Docker.
+- 🛠️ **Tools & Development Environments:** Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, pgAdmin, DBeaver.
 
-- 🖥️ Operating Systems: Linux, Windows.
+- ⚙️ **Version Control & Containerization:** Git, GitHub, Docker.
+
+- 🖥️ **Operating Systems:** Linux, Windows.
 
 ---
 
